@@ -6,11 +6,6 @@
 .DS_Store
 /captures
 .externalNativeBuild
+/build
 app/libs/
 app/src/main/res/drawable/
-/build/generated/
-/build/intermediates/
-/build/libs/
-/build/outputs/
-/build/poms/
-/build/tmp/
