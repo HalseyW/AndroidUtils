@@ -39,7 +39,7 @@ def siteUrl = 'https://github.com/HalseyW/AndroidUtils'    // project homepage
 //项目的版本控制地址
 def gitUrl = 'https://github.com/HalseyW/AndroidUtils.git' // project git
 
-group = "com.cxria.android.utils"
+group = "com.cxria.android.develop.utils"
 def libName = "AndroidUtilsForCxria"
 // 版本号，下次更新是只需要更改版本号即可
 version = "1.0.1"
@@ -57,7 +57,7 @@ task javadoc(type: Javadoc) {
     options.charSet 'UTF-8'
     options.author true
     options.version true
-    options.links "https://github.com/HalseyW/AndroidUtils/tree/master/app/build/docs/javadoc"
+    options.links "https://github.com/HalseyW/AndroidUtils/tree/master/androidutilsforcxria/build/docs/javadoc"
     failOnError false
 }
 
