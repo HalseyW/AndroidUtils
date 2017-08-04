@@ -4,6 +4,13 @@
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
-/build
 /captures
 .externalNativeBuild
+app/libs/
+app/src/main/res/drawable/
+/build/generated/
+/build/intermediates/
+/build/libs/
+/build/outputs/
+/build/poms/
+/build/tmp/
